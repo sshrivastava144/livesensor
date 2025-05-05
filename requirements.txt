@@ -1,0 +1,3 @@
+pymongo==4.2.0
+
+-e . #editable mode  (step.py ko run krnae ki jarurat nhi hai yadi aisa nhi likha ho to  baar baar run krni parti hai
